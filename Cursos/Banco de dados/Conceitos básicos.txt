@@ -1,0 +1,17 @@
+Fundamentos Database
+
+. Dado x Informação:
+
+	. Dado - Elemento bruto
+	. Informação - conjunto de dados tratados
+
+. Banco de dados
+	. É o cojunto de dados relacionados e armazenados de forma estruturada.
+	
+. Banco de dados Relacional
+	
+	. Conceitos base: Entidade x Relacionamento
+		. Atributos: campo, coluna, tipo...
+		. Cliente ( Entidade) Comprou (Relacionamento) Produto (Entidade)
+		
+	. ACID - Atomicidade, consistência, isolamento e durabilidade -> Garante integridade.
